@@ -8,7 +8,7 @@
 - 👨🏻‍🎓&nbsp; I'm Currently Studenting Computer Science  
 - 💻&nbsp; Coding And Debugging Are My Favorite Things
 
-## Skills
+## 🔧 Skills
 
 <p align="center">
   
@@ -21,7 +21,7 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
-## Github Stats
+## 📊 Github Stats
 
 <a href=""> 
   <img src="https://github-readme-stats.vercel.app/api?username=parsa-vesali&show_icons=true&theme=tokyonight" />
