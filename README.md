@@ -10,9 +10,3 @@
 
 ## Skills
 
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/parsa-vesali/parsa-vesali/blob/main/html5-logo-vector-01.png" width="55" height="55" />
-  </a>
-
-</p>
