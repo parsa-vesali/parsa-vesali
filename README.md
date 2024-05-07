@@ -32,18 +32,23 @@
 
 
 ## 🌐 Socials:
-<p align="center">
+
   
+<div align="center">
+
 <a href="https://t.me/parsa_vesali84/">
-<img src="https://img.shields.io/badge/Telegram-@parsa992-blue?style=flat&logo=telegram" />
-</a>
   
-<a href="https://instagram.com/parsa_vesali_84/">
-<img src="https://img.shields.io/badge/instagram-parsa_vesali_84-red?style=flat&logo=instagram" />
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 </a>
 
+<a href="https://t.me/parsa_vesali84/">
+  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
 
-</p>
+  
+</div>
+
 
 
 
