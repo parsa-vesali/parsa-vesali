@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning React Native , Redux<br>💬 Ask me about React , js<br>📫 How to reach me parsavesali84@gmail.com<br>👨🏻‍🎓  I'm Currently Studenting Computer Science<br>👨‍💻 All of my projects are available at https://github.com/parsa-vesali<br>⚡ Fun fact I love music and movies 🎧🍿🎥<br>
+🌱 I’m currently learning `React Native` , `Redux`<br>💬 Ask me about `React`<br>📫 How to reach me parsavesali84@gmail.com<br>👨🏻‍🎓  I'm Currently Studenting Computer Science<br>👨‍💻 All of my projects are available at https://github.com/parsa-vesali<br>⚡ Fun fact I love music and movies 🎧🍿🎥<br>
 
 
 ## 🌐 Socials:
