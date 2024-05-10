@@ -1,13 +1,14 @@
-### Hi There! I'm Parsa Vesali 🙋🏻‍♂️
+![image](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
 
-## &nbsp; About Me 😇
 
-- 🤓&nbsp; a Junior Frontend Developer 
-- 👀&nbsp; I Work With `HTML` , `CSS` And `JavaScript` And I'm Currently learning `React JS` 
-- 👨🏻‍🎓&nbsp; I'm Currently Studenting Computer Science  
-- 💻&nbsp; Coding And Debugging Are My Favorite Things
+# 💫 About Me:
+🌱 I’m currently learning React Native , Redux<br>💬 Ask me about React , js<br>📫 How to reach me parsavesali84@gmail.com<br>👨🏻‍🎓  I'm Currently Studenting Computer Science<br>👨‍💻 All of my projects are available at https://github.com/parsa-vesali<br>⚡ Fun fact I love music and movies 🎧🍿🎥<br>
 
-## 🔧 Skills
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parsavesali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parsavesali) 
+
+# 💻 Tech Stack:
 
 <p align="center">
   
@@ -24,36 +25,12 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
-## 📊 Github Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parsa-vesali&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parsa-vesali&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parsa-vesali&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<a href=""> 
-  <img src="https://github-readme-stats.vercel.app/api?username=parsa-vesali&show_icons=true&theme=tokyonight" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=parsa-vesali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-## 🌐 Socials:
-
-  
-<div align="center">
-
-<a href="https://t.me/parsa_vesali84/">
-  
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</a>
-
-<a href="https://t.me/parsa_vesali84/">
-  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
-
-  
-</div>
-
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
