@@ -6,7 +6,11 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parsavesali) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/parsavesali) 
+<a href="https://t.me/parsa992">
+  
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+</a>
+
 
 # 💻 Tech Stack:
 
