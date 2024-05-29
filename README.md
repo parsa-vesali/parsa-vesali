@@ -25,8 +25,6 @@
   ![TailwindCSS](https://camo.githubusercontent.com/4035639fa9b5a59d0686daa6e2b37156b8e00f198814e38f3a44398159426bf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e645f4353532d3039323734393f7374796c653d666f722d7468652d6261646765266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d303642364434266c6162656c436f6c6f723d303030303030)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </p>
 
 # 📊 GitHub Stats:
