@@ -1,6 +1,3 @@
-![image](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)
-
-
 # 💫 About Me:
 🌱 I’m currently learning `React Native` , `Redux`<br>💬 Ask me about `React`<br>📫 How to reach me parsavesali84@gmail.com<br>👨🏻‍🎓  I'm Currently Studenting Computer Science<br>👨‍💻 All of my projects are available at https://github.com/parsa-vesali<br>⚡ Fun fact I love music and movies 🎧🍿🎥<br>
 
