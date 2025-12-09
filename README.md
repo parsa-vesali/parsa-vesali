@@ -4,14 +4,14 @@
 
 ---
 
-### 🧠 About Me  
-🎯 I’m currently learning **Django REST Framework (DRF)**  
-🐍 I use **Python & Django** for backend development  
-☕ I’m a big fan of coding and coffee  
+### About Me  
+ I’m currently learning **Django REST Framework (DRF)**  
+ I use **Python & Django** for backend development  
+ I’m a big fan of coding and coffee  
 
 ---
 
-### 🛠️ Tech Stack  
+###  Tech Stack  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   <img width="5" />
@@ -40,17 +40,15 @@
 
 ---
 
-### 🌐 Connect with Me  
+###  Connect with Me  
 <a href="https://linkedin.com/in/parsa-vesali" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </a>
 
 ---
 
-### 📊 GitHub Stats  
+###  GitHub Stats  
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=parsa-vesali&show_icons=true&theme=tokyonight" alt="Parsa's GitHub stats" />
 </div>
 
-
-⭐️ *“Code. Learn. Repeat.”*  
