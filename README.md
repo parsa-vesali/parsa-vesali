@@ -31,6 +31,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="linux logo" />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
